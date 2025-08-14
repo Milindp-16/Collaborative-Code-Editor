@@ -30,7 +30,7 @@ CoCoder is a **real-time, web-based collaborative code editor** that allows mult
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/CoCoder.git
+https://github.com/Milindp-16/Collaborative-Code-Editor.git
 cd CoCoder
 ````
 
